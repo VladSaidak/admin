@@ -1,0 +1,291 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?qdobb2');
+  src:  url('fonts/icomoon.eot?qdobb2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?qdobb2') format('truetype'),
+    url('fonts/icomoon.woff?qdobb2') format('woff'),
+    url('fonts/icomoon.svg?qdobb2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xing-1:before {
+  content: "\e910";
+}
+.icon-youtube:before {
+  content: "\e911";
+}
+.icon-404:before {
+  content: "\e90f";
+  color: #fff;
+}
+.icon-check1:before {
+  content: "\e90e";
+  color: #14823d;
+}
+.icon-chance1:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-chance2:before {
+  content: "\e90d";
+  color: #fff;
+}
+.icon-hotline1:before {
+  content: "\e90a";
+}
+.icon-fax1:before {
+  content: "\e90b";
+}
+.icon-fb .path1:before {
+  content: "\e902";
+  color: rgb(255, 255, 255);
+}
+.icon-fb .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-in .path1:before {
+  content: "\e904";
+  color: rgb(255, 255, 255);
+}
+.icon-in .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-in .path3:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-in .path4:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-tw .path1:before {
+  content: "\e908";
+  color: rgb(255, 255, 255);
+}
+.icon-tw .path2:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-web:before {
+  content: "\e901";
+}
+.icon-arrow-down-angle:before {
+  content: "\e900";
+}
+.icon-cross:before {
+  content: "\e46";
+}
+.icon-menu-square-button:before {
+  content: "\e45";
+}
+.icon-calendar:before {
+  content: "\e44";
+  color: #14823d;
+}
+.icon-clock:before {
+  content: "\e43";
+  color: #14823d;
+}
+.icon-slider_arr_left:before {
+  content: "\e42";
+  color: #0a401e;
+}
+.icon-slider_arr_right:before {
+  content: "\e41";
+  color: #0a401e;
+}
+.icon-right-arrow:before {
+  content: "\e40";
+}
+.icon-check:before {
+  content: "\e39";
+  color: #14823d;
+}
+.icon-email_1:before {
+  content: "\e38";
+  color: #fff;
+}
+.icon-facebook .path1:before {
+  content: "\e36";
+  color: rgb(255, 255, 255);
+}
+.icon-facebook .path2:before {
+  content: "\e37";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-fax:before {
+  content: "\e35";
+}
+.icon-green_calendar:before {
+  content: "\e34";
+  color: #14823d;
+}
+.icon-green_clock:before {
+  content: "\e33";
+  color: #14823d;
+}
+.icon-green_email:before {
+  content: "\e32";
+  color: #14823d;
+}
+.icon-green_facebook .path1:before {
+  content: "\e30";
+  color: rgb(20, 130, 61);
+}
+.icon-green_facebook .path2:before {
+  content: "\e31";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-green_linkedin .path1:before {
+  content: "\e26";
+  color: rgb(20, 130, 61);
+}
+.icon-green_linkedin .path2:before {
+  content: "\e27";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-green_linkedin .path3:before {
+  content: "\e28";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-green_linkedin .path4:before {
+  content: "\e29";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-green_organizer:before {
+  content: "\e25";
+  color: #14823d;
+}
+.icon-green_phone:before {
+  content: "\e24";
+  color: #14823d;
+}
+.icon-green_placeholder:before {
+  content: "\e23";
+  color: #14823d;
+}
+.icon-green_twitter .path1:before {
+  content: "\e21";
+  color: rgb(20, 130, 61);
+}
+.icon-green_twitter .path2:before {
+  content: "\e22";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-home_big_icon_1:before {
+  content: "\e20";
+  color: #0a401e;
+}
+.icon-home_big_icon_2:before {
+  content: "\e19";
+  color: #0a401e;
+}
+.icon-home_big_icon_3:before {
+  content: "\e18";
+  color: #0a401e;
+}
+.icon-hotline:before {
+  content: "\e17";
+}
+.icon-linkedin .path1:before {
+  content: "\e13";
+  color: rgb(255, 255, 255);
+}
+.icon-linkedin .path2:before {
+  content: "\e14";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-linkedin .path3:before {
+  content: "\e15";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-linkedin .path4:before {
+  content: "\e16";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-map_pin .path1:before {
+  content: "\e11";
+  color: rgb(20, 130, 61);
+}
+.icon-map_pin .path2:before {
+  content: "\e12";
+  margin-left: -1em;
+  color: rgb(10, 64, 30);
+}
+.icon-phone_1:before {
+  content: "\e10";
+  color: #fff;
+}
+.icon-placeholder_1:before {
+  content: "\e9";
+  color: #fff;
+}
+.icon-play .path1:before {
+  content: "\e6";
+  color: rgb(20, 130, 61);
+  opacity: 0.3;
+}
+.icon-play .path2:before {
+  content: "\e7";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-play .path3:before {
+  content: "\e8";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-subpage_big_icon_1:before {
+  content: "\e5";
+  color: #fff;
+}
+.icon-subpage_big_icon_2:before {
+  content: "\e4";
+  color: #fff;
+}
+.icon-twitter .path1:before {
+  content: "\e2";
+  color: rgb(255, 255, 255);
+}
+.icon-twitter .path2:before {
+  content: "\e3";
+  margin-left: -1em;
+  color: rgb(20, 130, 61);
+}
+.icon-web_1:before {
+  content: "\e1";
+  color: #fff;
+}
